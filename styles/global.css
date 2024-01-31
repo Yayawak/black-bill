@@ -1,4 +1,9 @@
-html,
+/* styles/globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -24,4 +29,4 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
-}
+} */
